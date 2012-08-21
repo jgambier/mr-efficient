@@ -1,0 +1,1 @@
+make sure we store each profile visited in mongo and a visited cound, so we dont visit each profile too often
